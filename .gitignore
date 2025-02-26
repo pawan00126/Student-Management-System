@@ -1,0 +1,22 @@
+# Ignore build files
+target/
+
+# Ignore specific files
+config.properties
+
+# Ignore all log files
+*.log
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+
+.settings
+
+.classPath
+
+.project
+
+*.class
